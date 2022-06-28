@@ -13,8 +13,8 @@
     nav{
         margin-left: 5rem;
         height:5rem;
-    }
-    a{
+    
+        a{
         display:inline-block;
         position: relative;
         padding: 0 0.5rem;
@@ -43,5 +43,13 @@
             bottom:1px;left:0;
             background-color: var(--yellow);
         }
+        
+    
+        
+        
+        }
+    }
+    button{
+        margin-left: auto;
     }
 }
